@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@tabler/icons-react": "^3.31.0",
+    "autoprefixer": "^10.0.0",
     "axios": "^1.8.1",
     "clsx": "^2.1.1",
     "framer-motion": "^12.4.10",
@@ -22,7 +23,7 @@
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
-    "@tailwindcss/postcss": "^4",
+    "@tailwindcss/postcss": "^4.0.9",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",

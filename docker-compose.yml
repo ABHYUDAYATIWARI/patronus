@@ -52,7 +52,7 @@ services:
       - /app/.next
     restart: always
     environment:
-      - NODE_ENV=production
+      - NODE_ENV=development
 
 volumes:
   static_volume:

@@ -38,3 +38,10 @@ Ensure you have the following installed on your machine:
 - [Django](https://www.djangoproject.com/)
 - [Next.js](https://nextjs.org/)
 - [Docker](https://www.docker.com/)
+
+### Some Screenshots 
+- Homepage
+![Homepage](static/home.png)
+
+- All user Page
+![AllUser](static/allUser.png)
