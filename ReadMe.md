@@ -24,7 +24,7 @@ Ensure you have the following installed on your machine:
     cd patronus
     ```
 
-### Docker Setup (Optional)
+### Docker Setup 
 
 1. **Build and run the Docker containers:**
 
