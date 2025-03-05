@@ -10,10 +10,7 @@ Follow these instructions to set up and run the project on your local machine fo
 
 Ensure you have the following installed on your machine:
 
-- Python 3.8 or higher
-- Django 3.2 or higher
-- Node.js (for frontend dependencies)
-- Docker (optional, for containerized development)
+- Docker 
 
 ### Installation
 
